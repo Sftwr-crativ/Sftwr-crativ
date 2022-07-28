@@ -7,4 +7,5 @@
 ### About Me
 Amateur Python programmer.      
 I've built some HTML, CSS and JS website models.
+
 Currently learning Machine Learning and AI.
