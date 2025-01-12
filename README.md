@@ -57,6 +57,6 @@
 
 ###
 
-<h3 align="center">Hello World!</h3>
+<p align="center">I’m a naturally curious and driven person, passionate about solving real-world problems through innovation. In 2022, I developed a project on carbon credits that reached the FEBRACE finals, inspired by a conversation with my dad about sustainability. This journey sparked my love for programming and AI to create impactful, real-world solutions. 🚀</p>
 
 ###
